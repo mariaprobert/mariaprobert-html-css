@@ -1,5 +1,5 @@
 # HTML and CSS Assignments
+Maria's HTML Practice 
+By Maria Probert Hermosillo, Intro Coding for Journalists class
 
-By Maria Probert Hermosillo
-
-Due Sept. 8th
+Due Sept. 8, 2023
